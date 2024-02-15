@@ -1,0 +1,5 @@
+torch==2.1.2
+networkx
+scikit-learn
+scipy
+h5py
