@@ -26,7 +26,7 @@ python main.py
 
 ## Todo
 
-- [] Add self attention and query focused global attention.
+- [ ] Add self attention and query focused global attention.
 
 ## 🙏 Acknowledgement
 
