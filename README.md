@@ -1,3 +1,5 @@
+PyTorch implementation for **Convolutional Hierarchical Attention Network for Query-Focused Video Summarization**, which is accepted by AAAI 2020 conference. [Paper](https://arxiv.org/abs/2002.03740)
+
 ## 🎥 Model Details
 
 ## 📑 Dataset
