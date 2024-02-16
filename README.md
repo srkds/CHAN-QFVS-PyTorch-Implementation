@@ -7,8 +7,10 @@ PyTorch implementation for **Convolutional Hierarchical Attention Network for Qu
 ## 📈 Loss Function and Evaluation Method
 
 ## 📊 Results
+Here is the result video summary for the query `FOOD` and `HANDS`. The model **generated a ~4:30 minute summary which contains clips that either have food or hands in frame from a ~4-hour long video** which contains diverse scenes like library, mall, driving, shop, etc.
 
-<video src="./assets/food_hands.mp4" width=300 controls> </video>
+https://github.com/srkds/CHAN-QFVS-PyTorch-Implementation/assets/61644078/5ed127f7-06fe-4d91-85e7-9626ebc38b6c
+
 
 ## Installation
 
