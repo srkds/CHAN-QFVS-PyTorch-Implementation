@@ -1,6 +1,8 @@
-# PyTorch implementation for Convolutional Hierarchical Attention Network for Query-Focused Video Summarization
+# Convolutional Hierarchical Attention Network for Query-Focused Video Summarization (CHAN): A PyTorch Implementation
 
-PyTorch implementation for **Convolutional Hierarchical Attention Network for Query-Focused Video Summarization**, which is accepted by AAAI 2020 conference. [Paper](https://arxiv.org/abs/2002.03740)
+This is a PyTorch implementation of the [**"Convolutional Hierarchical Attention Network for Query-Focused Video Summarization"**](https://arxiv.org/abs/2002.03740), which is accepted by AAAI 2020 conference.
+
+> Note: This project is stil a work in progress
 
 ## 🎥 Model Details
 
