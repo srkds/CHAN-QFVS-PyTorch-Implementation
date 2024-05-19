@@ -1,0 +1,21 @@
+ {
+    "max_segment_num": 20,
+    "max_frame_num": 200,
+    "similarity_dim": 1000,
+    "concept_dim": 300,
+    "in_channel": 2048,
+    "conv1_channel": 512,
+    "conv2_channel": 256,
+    "deconv1_channel": 1024,
+    "deconv2_channel": 1024,
+  
+    "gpu": "0",
+    "num_workers": 0,
+    "epoch": 20,
+    "batch_size": 5,
+    "lr": 1e-5,
+    "decay_rate": 0.8,
+    "train_videos": [1,2,3],
+    "test_video": 4,
+    "top_percent": 0.02
+  }
