@@ -6,6 +6,10 @@ This is a PyTorch implementation of the [**"Convolutional Hierarchical Attention
 
 ## 🎥 Model Details
 
+|    Parallel Computing Model    |          Simple Model Diagram          |
+| :----------------------------: | :------------------------------------: |
+| <img src="./assets/model.jpg"> | <img src="./assets/CHAN-Original.png"> |
+
 ## 📑 Dataset
 
 ## 📈 Loss Function and Evaluation Method
